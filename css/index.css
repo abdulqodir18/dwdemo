@@ -22,6 +22,7 @@ body{
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 130px;
+
 }
 .novigatoin-link{
   display: flex;
@@ -54,7 +55,7 @@ body{
   font-size: 16px;
   font-weight: 800;
   line-height: 26px;
-  width: 210px;
+  /* width: 210px; */
   background-color: #ffffff;
   color: #212353;
   padding: 15px;
@@ -70,6 +71,15 @@ body{
   align-items: center;
   justify-content: space-between;
   margin-bottom: 100px;
+  width: 1248px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 150px;
+  background-image: url('../img/intro-img@1x.png');
+  background-size: 885px 468px;
+  background-repeat: no-repeat;
+  background-position:363px 96px;
+
 }
 .second-h{
   font-weight: bold;
@@ -106,7 +116,7 @@ body{
   margin-bottom: 150px;
   background: rgba(240, 99, 184, 0.15);
   border-radius: 50px;
-}
+ }
 .third-img{
   width: 477px;
   height: 507px;
